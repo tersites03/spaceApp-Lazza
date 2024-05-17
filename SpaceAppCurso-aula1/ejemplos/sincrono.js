@@ -9,7 +9,7 @@ function tres () {
 
 function dos () {
     console.log("dos")
-    tres( )
+    tres()
 }
 
 function uno () {
